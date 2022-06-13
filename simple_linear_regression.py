@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
-# salary.csv contains one featurea and one dependent variable
+# salary.csv contains one feature (Linear)
 # Year of expierence and salary 
 print('-------------------------------------------------')
 print('Seprating features and dependent variable . . . ')
